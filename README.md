@@ -1,4 +1,4 @@
-#  SmartSant-IoT: Early Disease Prediction System
+# SMART-IOT: Early Disease Predictions System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange.svg)](https://pytorch.org/)
@@ -115,8 +115,8 @@ SmartSant-IoT/
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/chandril-mallick/SmartSant-IoT---Early-Disease-Prediction-System.git
-cd SmartSant-IoT---Early-Disease-Prediction-System
+git clone https://github.com/mondalrik08k-web/SMART-IOT--EARLY--DISESE-PREDICTIONS.git
+cd SMART-IOT--EARLY--DISESE-PREDICTIONS
 
 # Create a virtual environment
 python3 -m venv .venv
@@ -305,9 +305,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ##  Author
-**Chandril Mallick**
-- GitHub: [@chandril-mallick](https://github.com/chandril-mallick)
-- Repository: [SmartSant‑IoT](https://github.com/chandril-mallick/SmartSant-IoT---Early-Disease-Prediction-System)
+**Rik Mondal (mondalrik08k-web)**
+[@mondalrik08k-web](https://github.com/mondalrik08k-web)
+Repository: [SMART-IOT EARLY DISEASE PREDICTIONS](https://github.com/mondalrik08k-web/SMART-IOT--EARLY--DISESE-PREDICTIONS)
 
 ##  Contributors
 
